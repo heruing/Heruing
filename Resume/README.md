@@ -18,7 +18,7 @@
 
 <div style="font-weight: bold; color:#6e00ea; font-size:20px">About Me.</div>
 
-우연히 접하게 된 코딩에 너무 큰 매력을 느껴 시작하게 된 개발자입니다.
+필요에 의해서 시작한 코딩, 너무 큰 재미를 느껴 푹 빠져든 신입 개발자
 
 - **배우고 있는 것**
   - 2021-07-07 ~ 2021-12-31
@@ -56,16 +56,38 @@
   비전공자가 선택 가능했던 Python 트랙은 FE에 치중된 경향이 있어 1학기 이수 후 퇴소하였습니다.
   이후 네이버 부스트캠프에 지원하여 수강 예정에 있습니다.
 - **질병관리청(2020-06-29 ~ 2021-01-04)**
-- **부산대학교 분자생물학과**
+- **부산대학교 분자생물학과(2013-03 ~ 2020-02)**
 
 
 
 <div style="font-weight: bold; color:#6e00ea; font-size:20px">Project.</div>
 
+- **영화 추천 사이트**(2021-11-17 ~ 2021-11-23)
+  - **Name.** SimpleMovie
+  - **Site.** https://simplemovie.link/
+  - **Skill.** Python+Django, Vue.js(Vuex, Vue router), HTML/CSS
+  - **About.**
+    SSAFY에서 매주 금요일 관통프로젝트라는 이름으로 진행된 강의 내용 종합 프로젝트
+    팀원과 함께 공통된 영화 추천 사이트라는 대주제와 최소 요건을 가지고 자유롭게 진행되는 프로젝트
+  - **Realized.**
+    1. 팀원의 대학원 진학 준비(물리적인 시간 부족)
+       → 이를 해결하기 위해 DB를 최소로 구성하고 DB 제공 사이트의 기능을 최대로 활용하며
+       Front-End에 집중하여 부족한 부분을 커버하기로 하였음
 
+- **로또 번호 추천 사이트**
+  - **Name.** 로또 추천
+  - **Site.** https://lotto-best.com/
+  - **Skill.** Python+Django, HTML/CSS
+  - **About.**
+    로또 번호를 DB에 저장하여 최다 등장 번호와 최소 등장 번호, 최장 미당첨 번호를 바탕으로 추천 번호를 제공하는 사이트
+  - **Realized.**
 
 <div style="font-weight: bold; color:#6e00ea; font-size:20px">Skill.</div>
 
-
+- **Back-End.** Python
+- **Front-End.** HTML/CSS, Vue.js
 
 <div style="font-weight: bold; color:#6e00ea; font-size:20px">Etc.</div>
+
+- **병역.** 병장 만기제대(2014-04-01 ~ 2015-12-31)
+- 

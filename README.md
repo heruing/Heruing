@@ -14,10 +14,11 @@
 
 <a href="https://github.com/Heruing"><img src="./README.assets/git.png" style="height: 30px">**github.com/Heruing**</a>
 
+
 <hr>
 <div style="font-weight: bold; color:#6e00ea; font-size:20px">Experience & Education.</div>
 
-![boostcamp](C:\Users\s_101\OneDrive\바탕 화면\공부\Heruing\README.assets\boostcamp.png)
+![boostcamp](./README.assets\boostcamp.png)
 
 - <div style="font-weight: bold; color:#6e00ea; font-size:18px">부스트캠프 AI tech</div>
 

@@ -169,7 +169,7 @@
         → 해당 프로젝트를 통해 AI 모델 사용법과 실제 학습이 진행되는 과정을 Wandb 등 툴을 사용해서 보며 활용 방안 등에 대해 고민해볼 수 있었음
 
 5. **영화 추천 사이트**
-   ![simplemovie_home](/README.assets\simplemovie_home.png)
+   <div><img src="./README.assets/simplemovie_home.png" ></div> 
 
    - **Name.** 영화 추천 사이트 제작
    - **Period.** 2021-11-17 ~ 2021-11-23

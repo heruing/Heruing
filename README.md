@@ -17,8 +17,7 @@
 
 <hr>
 <div style="font-weight: bold; color:#6e00ea; font-size:20px">Experience & Education.</div>
-
-![boostcamp](./README.assets\boostcamp.png)
+<div><img src="./README.assets/boostcamp.png" ></div>
 
 - <div style="font-weight: bold; color:#6e00ea; font-size:18px">부스트캠프 AI tech</div>
 
@@ -33,7 +32,7 @@
 
     이론적으로는 Pytorch, Numpy & Pandas를 포함 기초 AI Math부터 최근 사용되는 기술에 대한 흐름을 이해할 수 있는 강의를 수강하였습니다. 뿐만 아니라 대회형 프로젝트를 통해  Kaggle과 같이 제공된 Dataset을 활용해 다양한 방법으로 성능을 높이는 작업을 익혔습니다. 해당 과정에서 Data의 양과 분포 등의 특성을 파악하기 위한 EDA, Visualization을 진행하며 데이터에 대한 다방면적 분석을 경험하였습니다. 특히, 이를 기반으로 이후 실험 방향성과 보완점을 발견할 수 있음을 깨달아 Data Analysis에 대한 다양한 고찰을 진행하고 있습니다.
 
-![ssafy](./README.assets\ssafy.png)
+<div><img src="./README.assets/ssafy.png" ></div>
 
 
 - <div style="font-weight: bold; color:#6e00ea; font-size:18px">삼성 청년 SW 아카데미</div>
